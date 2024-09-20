@@ -8,7 +8,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allanp93&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!---
-allanp93/allanp93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div style="display: inline_block"><br>
+ <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <i class="devicon-java-plain-wordmark"></i>  
+</div>
+
+<div>
+  <a href="https://instagram.com/allandmariaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+  
