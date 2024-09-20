@@ -1,4 +1,4 @@
-##👋 Hi, I’m Allan.
+ ## Hi, I’m Allan
 
 - 🌱 I’m currently learning Java development
 - 🖥️ Currently serving as a IT Intern at Y S K SOLUCOES E TECNOLOGIA EM SOFTWARE LTDA(portalabre.com.br), providing general support and assistance with daily IT operations.
